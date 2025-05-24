@@ -18,5 +18,3 @@ Este documento explica los componentes menos obvios que aparecen en `lib/screens
 2. Pulsa **GUARDAR** → `setState()` agrega `{nombre, precio}` a `productos`.  
 3. `ListView.builder` se reconstruye y muestra el nuevo elemento.  
 
-Con esta explicación cualquier desarrollador nuevo sabrá qué hace cada pieza “poco evidente” y cómo encaja en la lógica general del registro de productos.  
-¡A mergear sin miedo! 🚀
